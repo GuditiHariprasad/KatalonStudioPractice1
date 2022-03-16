@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>using record mode of the katalon studio</description>
+   <name>Sample1Record</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e4600526-ae83-4afa-a5b3-bee57ddc2232</testCaseGuid>
+</TestCaseEntity>

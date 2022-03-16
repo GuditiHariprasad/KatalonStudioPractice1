@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>getting data from the excel</description>
+   <name>DataDrivenTestingExcel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>78880bc4-8f26-486d-b265-dba1d5a59ca5</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>168a62f8-40a2-43ce-9f85-cba743a541d3</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>02b365aa-8343-46d3-a798-e3e9c9ee1c41</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

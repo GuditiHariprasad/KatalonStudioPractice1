@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>manual mode creation of the testcases</description>
+   <name>Sample2Manual</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>29773e68-6756-40e1-8122-7993e6c2d9d2</testCaseGuid>
+</TestCaseEntity>
